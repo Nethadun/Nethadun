@@ -1,8 +1,8 @@
 ### Hi there 👋I am Nethadun Wijesinghe
 
-“For the past four years, I’ve been working on backend development. I take an evaluative approach to solving issues and work through the process by trying out various solutions. I’m a self-starter and work well independently, but I’m also skilled at working in teams. I’m used to working in fast-paced environments and am very driven by goals and deadlines.”
+💬 Ask me about 
 
-TECHNICAL SKILLS
+“For the past four years, I’ve been working on backend development. I take an evaluative approach to solving issues and work through the process by trying out various solutions. I’m a self-starter and work well independently, but I’m also skilled at working in teams. I’m used to working in fast-paced environments and am very driven by goals and deadlines.”
 
 ### PROGRAMMING LANGUAGES SCRIPTING LANGUAGES
 Java, Php JavaScript, jQuery, Json, Ajax
@@ -11,6 +11,11 @@ Spring, Spring boot, Spring mvc, Sublime Text, NetBeans, Intellij Idea,
 Hibernate, Jpa, Angular (8), Laravel Visual Studio Code, Git
 ### DATABASE & ORM TOOLS SOURCE CONTROL
 Mysql, hibernate, jpa Github, Gitlab, Bitbucke
+
+📫 How to reach me: ...
+
+website: http://nethadunwijes.000webhostapp.com/
+email: nethadun123@gmail.com
 
 <!--
 **Nethadun/Nethadun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
