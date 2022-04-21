@@ -10,7 +10,7 @@ Java, Php JavaScript, jQuery, Json, Ajax
 Spring, Spring boot, Spring mvc, Sublime Text, NetBeans, Intellij Idea,
 Hibernate, Jpa, Angular (8), Laravel Visual Studio Code, Git
 ### DATABASE & ORM TOOLS SOURCE CONTROL
-Mysql, hibernate, jpa Github, Gitlab, Bitbucke
+Mysql, hibernate, jpa Github, Gitlab, Bitbucket
 
 📫 How to reach me: ...
 
