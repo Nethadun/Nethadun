@@ -1,6 +1,6 @@
 ### Hi there 👋I am Nethadun Wijesinghe
 
-💬 Ask me about 
+💬 About me: ...
 
 “For the past four years, I’ve been working on backend development. I take an evaluative approach to solving issues and work through the process by trying out various solutions. I’m a self-starter and work well independently, but I’m also skilled at working in teams. I’m used to working in fast-paced environments and am very driven by goals and deadlines.”
 
