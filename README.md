@@ -2,7 +2,11 @@
 
 💬 About me: ...
 
-“For the past few years, I’ve been working on backend development. I take an evaluative approach to solving issues and work through the process by trying out various solutions. I’m a self-starter and work well independently, but I’m also skilled at working in teams. I’m used to working in fast-paced environments and am very driven by goals and deadlines.”
+“Experienced software engineer with over 4 years in designing, developing, and maintaining scalable,
+high-performance Java-based applications. Proficient in Java, Spring Boot, Microservices, and REST
+APIs. Strong expertise in object-oriented programming (OOP), Agile methodologies, and software
+architecture. Adept at leading engineering teams, fostering collaboration, and delivering quality solutions
+on time. Highly skilled in unit testing and performance optimization for mission-critical systems.”
 
 ### PROGRAMMING LANGUAGES
 Java, Php
