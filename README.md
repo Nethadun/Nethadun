@@ -9,15 +9,15 @@ architecture. Adept at leading engineering teams, fostering collaboration, and d
 on time. Highly skilled in unit testing and performance optimization for mission-critical systems.”
 
 ### PROGRAMMING LANGUAGES
-Java, Php
+Java, Typescript
 ### SCRIPTING LANGUAGES
 JavaScript, jQuery, Json, Ajax
 ### FRAMEWORKS
-Spring, Spring boot, Spring mvc, Hibernate, Jpa, Angular (8), Laravel
+Spring, Spring boot, Spring mvc, Hibernate, Jpa, Angular CLI, Laravel
 ### DEVELOPMENT TOOL
 Sublime Text, NetBeans, Intellij Idea, Visual Studio Code, Git
 ### DATABASE & ORM TOOLS SOURCE CONTROL
-Mysql, hibernate, jpa Github, Gitlab, Bitbucket
+Mysql, postgres SQl hibernate, jpa Github, Gitlab, Bitbucket
 
 📫 How to reach me: ...
 
